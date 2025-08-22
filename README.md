@@ -50,7 +50,7 @@ Beberapa insight yang ditemukan:
 - Seaborn
 
 ## 🖇️ Artikel Medium
-Baca versi lengkapnya di sini 👉 [Medium Article](link_nanti_diisi)
+Baca versi lengkapnya di sini 👉 [Medium Article](https://medium.com/@dyanitalhani9129/analisis-data-pelanggan-restoran-dari-tagihan-tip-hingga-strategi-bisnis-2aba79d60844)
 
 ## 📌 Lisensi
 Proyek ini dilindungi dengan **MIT License** – silakan gunakan atau modifikasi dengan mencantumkan kredit.
